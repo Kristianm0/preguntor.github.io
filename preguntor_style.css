@@ -1,7 +1,7 @@
 /* Estilo global para el cuerpo de la página */
 body {
   font-family:  'Playfair Display', serif;
-  background-color: ##111111;
+  background-color: #111111;
   margin: 0;
   padding: 0;
   display: flex;
